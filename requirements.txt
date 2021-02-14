@@ -9,11 +9,10 @@ xgboost==1.1.1
 lightgbm==2.3.1
 pytest==5.4.3
 tqdm==4.56.0
-lazyclassifier
 seaborn==0.10.1
 streamlit==0.65.2
 jupyterlab==2.2.6
 bokeh==2.2.1
 plotly==4.11.0
 kaleido
-plotly.express==0.4.1
+plotly_express==0.4.1
