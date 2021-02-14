@@ -12,8 +12,8 @@ xgboost==1.1.1
 lightgbm==2.3.1
 pytest==5.4.3
 tqdm==4.56.0
-seaborn==0.10.1
+seaborn>=0.10.1
 jupyterlab==2.2.6
 bokeh==2.2.1
 kaleido
-plotly_express==0.4.1
+
