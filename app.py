@@ -32,7 +32,7 @@ def main():
         st.subheader("Explanatory Data Analysis")
         
         data=st.file_uploader("Please upload a CSV dataset ",type=['csv'])
-        text_io = io.TextIOWrapper(data)
+        
         
         
         st.warning('Your dataset goes here...')
