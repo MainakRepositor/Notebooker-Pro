@@ -339,7 +339,12 @@ def main():
                 
     elif option == 'Classification':
         st.subheader("Classifier ML Model Builder")
-        
+        st.sidebar.subheader("File Upload")
+
+        # Setup file upload
+        uploaded_file = st.sidebar.file_uploader(
+                                label="Upload your CSV file. (200MB max)",
+                                type=['csv'])
         def build_model(df):
             l = len(df)
                 
@@ -414,10 +419,7 @@ def main():
 
        
 
-        with st.sidebar.subheader('File Uploader Section'):
-            uploaded_file = st.sidebar.file_uploader(
-                                label="Upload your CSV file. (200MB max)",
-                                type=['csv'])
+        
             
 
 
