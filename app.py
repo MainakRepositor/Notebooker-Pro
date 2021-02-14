@@ -1,7 +1,7 @@
 import streamlit as st 
 import numpy as np 
 import pandas as pd  
-
+from plotly import *
 import plotly.express as px  
 from sklearn import *
 from lazypredict.Supervised import LazyRegressor
