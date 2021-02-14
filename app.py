@@ -18,6 +18,7 @@ from PIL import Image
 
 image = Image.open('ds.jpg')
 st.image(image,use_column_width=True)
+st.set_option('deprecation.showfileUploaderEncoding', False)
 
 def main():
     activities = ['EDA','Visualization','Regression','Classification','Documentation','About Us']
