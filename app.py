@@ -292,9 +292,11 @@ def main():
             return href
 
 
-        st.set_option('deprecation.showfileUploaderEncoding', False)
-        with st.sidebar.header('File Uploader Section'):
-            uploaded_file = st.sidebar.file_uploader("Upload an input as CSV file", type=["csv"])
+        
+        with st.sidebar.subheader('File Uploader Section'):
+            uploaded_file = st.sidebar.file_uploader(
+                                label="Upload your CSV file. (200MB max)",
+                                type=['csv'])
             
 
 
@@ -410,10 +412,12 @@ def main():
             href = f'<a href="data:image/png;base64,{b64}" download={filename}>Download {filename} File</a>'
             return href
 
-        st.set_option('deprecation.showfileUploaderEncoding', False)
+       
 
-        with st.sidebar.header('File Uploader Section'):
-            uploaded_file = st.sidebar.file_uploader("Upload an input as CSV file", type=["csv"])
+        with st.sidebar.subheader('File Uploader Section'):
+            uploaded_file = st.sidebar.file_uploader(
+                                label="Upload your CSV file. (200MB max)",
+                                type=['csv'])
             
 
 
