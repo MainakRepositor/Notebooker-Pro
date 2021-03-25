@@ -21,11 +21,11 @@ st.image(image,use_column_width=True)
 
 def main():
     activities = ['EDA','Visualization','Regression','Classification','Documentation','About Us']
-    st.sidebar.success('Updates Coming Soon! 🌟🎉')
+    #st.sidebar.success('Updates Coming Soon! 🌟🎉')
     option=st.sidebar.selectbox('Choose a section',activities)
     st.sidebar.markdown('''Use this section for finding useful insights about your data,and feel free to use them in your notebooks
                                              
-    🎯   Version : 1.0.1  ''')
+    🎯   Version : 1.0.2  ''')
     
     
     if option == 'EDA':
@@ -476,13 +476,13 @@ iv. **Classification** --> Loops through **30** different classification models 
 		   for non-classification algorithm might generate vague results. So use a proper dataset.
 		   
 
-Features:
+**Features:**
 
-Upload file => Upload only csv files.
+**Upload file** => Upload only csv files.
 
-Data split  => This is a linear slidebar, that will let you choose split ratio between 0 to 1
+**Data split**  => This is a linear slidebar, that will let you choose split ratio between 0 to 1
 
-Random seed => Helps to randomize the data in training and testing data samples. 
+**Random seed** => Helps to randomize the data in training and testing data samples. 
 	       You may change to get the best accuracy of for a particular model.
 	       ''')
         
