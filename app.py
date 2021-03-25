@@ -477,10 +477,14 @@ iv. Classification --> Loops through 30 different classification models and retu
 		   
 
 Features:
+
 Upload file => Upload only csv files.
+
 Data split  => This is a linear slidebar, that will let you choose split ratio between 0 to 1
+
 Random seed => Helps to randomize the data in training and testing data samples. 
-	       You may change to get the best accuracy of for a particular model.''')
+	       You may change to get the best accuracy of for a particular model.
+	       ''')
         
     elif option == 'About Us':
         st.subheader("About Us 😊")
