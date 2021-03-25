@@ -2,6 +2,10 @@
 The best notebook maker
 <img src="https://user-images.githubusercontent.com/64016811/112420037-7da91600-8d52-11eb-8fd0-d8c916e6b313.jpg">
 
+<hr>
+
+## WHAT IS NOTEBOOKER PRO
+
 The notebooker pro is a user-friendly software designed to help you make a good data science notebook in few steps.
 Well, notebooker pro will not be making a notebook for you, but will provide you with all the data insights that you 
 will need to put in your kernel. The notebooker pro has been provided with 4 major sections:
