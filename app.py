@@ -460,17 +460,17 @@ def main():
 Well, notebooker pro will not be making a notebook for you, but will provide you with all the data insights that you 
 will need to put in your kernel. The notebooker pro has been provided with 4 major sections:
 
-i.  EDA (Explanatory Data Analysis)  --> used to find important data and statistical insights from the uploaded files
+i.  **EDA (Explanatory Data Analysis)**  --> used to find important data and statistical insights from the uploaded files
 
-ii. Visualization --> Used to perform data visualization with 5 basic important types of graphs
+ii. **Visualization** --> Used to perform data visualization with 5 basic important types of graphs
 
-iii.Regression --> Loops through 30 different regression models and returns the complexity statistics of the result
+iii.**Regression** --> Loops through **30** different regression models and returns the complexity statistics of the result
 		   of regression modelling for your dataset for chosen seed values and size. The only thing to keep in
 		   mind while using this is that, the data must be fitting with a regression modelling. Datasets used
 		   for classification algorithm might generate vague results. So use a proper dataset.
 		   **[eg.: do not use iris,cancer,penguins etc. classifier dataset]**
 
-iv. Classification --> Loops through 30 different classification models and returns the complexity statistics of the result
+iv. **Classification** --> Loops through **30** different classification models and returns the complexity statistics of the result
 		   of classification modelling for your dataset for chosen seed values and size. The only thing to keep in
 		   mind while using this is that, the data must be fitting with a classification modelling. Datasets used
 		   for non-classification algorithm might generate vague results. So use a proper dataset.
