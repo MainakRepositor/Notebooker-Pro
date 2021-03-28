@@ -1,6 +1,15 @@
 # Notebooker-Pro
 The best notebook maker
+
+## Light Mode
+
 <img src="https://user-images.githubusercontent.com/64016811/112420037-7da91600-8d52-11eb-8fd0-d8c916e6b313.jpg">
+
+<hr>
+
+## Dark Mode
+
+<img src="https://user-images.githubusercontent.com/64016811/112760003-179ee600-9013-11eb-9a0f-9b0f4c701be3.jpg">
 
 <hr>
 
