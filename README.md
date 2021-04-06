@@ -1,18 +1,6 @@
 # Notebooker-Pro
 The best notebook maker
 
-## Light Mode
-
-<img src="https://user-images.githubusercontent.com/64016811/112420037-7da91600-8d52-11eb-8fd0-d8c916e6b313.jpg">
-
-<hr>
-
-## Dark Mode
-
-<img src="https://user-images.githubusercontent.com/64016811/112760003-179ee600-9013-11eb-9a0f-9b0f4c701be3.jpg">
-
-<hr>
-
 ## WHAT IS NOTEBOOKER PRO
 
 The notebooker pro is a user-friendly software designed to help you make a good data science notebook in few steps.
@@ -43,5 +31,19 @@ Random seed => Helps to randomize the data in training and testing data samples.
          
          
 **You do not necessarily need to know coding to use this webapp**
+
+## Light Mode
+
+<img src="https://user-images.githubusercontent.com/64016811/112420037-7da91600-8d52-11eb-8fd0-d8c916e6b313.jpg">
+
+<hr>
+
+## Dark Mode
+
+<img src="https://user-images.githubusercontent.com/64016811/112760003-179ee600-9013-11eb-9a0f-9b0f4c701be3.jpg">
+
+<hr>
+
+
 
 The site is live at : https://share.streamlit.io/mainakrepositor/notebooker-pro/app.py
