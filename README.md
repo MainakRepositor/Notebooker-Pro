@@ -81,5 +81,5 @@ Random seed => Helps to randomize the data in training and testing data samples.
 
 The site is live at : https://share.streamlit.io/mainakrepositor/notebooker-pro/app.py
 
+![ss1](https://user-images.githubusercontent.com/64016811/114223200-27acb300-998d-11eb-8cc5-2e4865102971.jpg)
 
-Link to the publication : https://www.ijariit.com/manuscripts/v7i2/V7I2-1309.pdf
