@@ -26,6 +26,11 @@ Data Analysis, Machine Learning, Data Visualization, Model Building, Web Applica
 
 <hr>
 
+## UML Diagram
+
+<img src="https://user-images.githubusercontent.com/64016811/114149670-c955e500-9938-11eb-9f47-7dbf0564f649.png">
+
+<hr>
 
 ## WHAT IS NOTEBOOKER PRO
 
