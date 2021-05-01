@@ -1,6 +1,8 @@
 # Notebooker-Pro
 The best notebook maker
 
+## Created, Patented and All Rights Reserved by Mainak Chaudhuri
+
 <hr>
 
 ## Abstract:
