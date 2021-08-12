@@ -85,4 +85,4 @@ Random seed => Helps to randomize the data in training and testing data samples.
 
 
 
-## The site is live at : https://share.streamlit.io/mainakrepositor/notebooker-pro/app.py 
+## The site is live at : [here](https://share.streamlit.io/mainakrepositor/notebooker-pro/app.py)
