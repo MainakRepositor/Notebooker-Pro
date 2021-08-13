@@ -20,8 +20,8 @@ Data Analysis, Machine Learning, Data Visualization, Model Building, Web Applica
 ## Primary issues with existing techs:
 
 <ol>
-<li>Manual planning :  For making a good notebook, the creator needs to plan it well. The notebook must be informative and include all necessary details yet not over-burdening it with a flood of information which are irrelevant.<li>
-<li>Time taken to code : Once the planning is done, now comes the most tedious and brain-storming part, that is to code the notebook into existence. This can take hours, and also result in aches in various body parts and a bit of monotony, working for the same thing for so long.<li>
+<li>Manual planning :  For making a good notebook, the creator needs to plan it well. The notebook must be informative and include all necessary details yet not over-burdening it with a flood of information which are irrelevant.</li>
+<li>Time taken to code : Once the planning is done, now comes the most tedious and brain-storming part, that is to code the notebook into existence. This can take hours, and also result in aches in various body parts and a bit of monotony, working for the same thing for so long.</li>
 <li>Finding a good accuracy : It is definitely a hard job to find the appropriate train-test-split ratio in order to increase the accuracy of the model. At times, due to a poor size selection, the test set and the train set data do not agree with each other, resulting in high training accuracy but low test set accuracy.</li>
 <li>4.Messing up with syntax to make a proper graph : Making a good graph with proper axes/parameters is also a great challenge for a beginner or a person with a limited time frame.</li>
 </ol>
